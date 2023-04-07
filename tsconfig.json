@@ -1,0 +1,7 @@
+{
+	"extends": "../../../common/common-all/tsconfigs/tsconfig.base.common",
+	"include": ["src/**/*"],
+	"compilerOptions": {
+		"baseUrl": "."
+	}
+}
